@@ -1,4 +1,4 @@
----
+t---
 import { getCollection } from "astro:content";
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1 class="mr-2">Mingalaba</h1>
+      <h1 class="mr-2">BeatBlog</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -41,19 +41,10 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
-      </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
+        Welcome to BeatBlog, your go-to destination for all things music production! Dive into the captivating world where creativity meets technology. Whether you're a seasoned producer or just starting your musical journey, our blog is your ultimate resource for inspiration, tips, and insights.
+        Explore in-depth tutorials on the latest production techniques, discover reviews of cutting-edge gear, and stay updated on industry trends. Uncover the secrets behind your favorite tracks, learn from expert interviews, and find a community of fellow music enthusiasts who share your passion.
+        From software recommendations to studio setup hacks, we've got you covered. Join us on this sonic adventure as we navigate the ever-evolving landscape of music production. Let's turn your musical vision into reality, one beat at a time.
+        Tune in, turn up, and let the rhythm guide you. Welcome to [Your Blog Name], where the art of music production comes to life!
       </p>
       {
         // only display if at least one social link is enabled

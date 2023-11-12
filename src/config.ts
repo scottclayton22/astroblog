@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://beatmakerblog.netlify.app", // replace this with your deployed domain
+  website: "https://beatblog.netlify.app", // replace this with your deployed domain
   author: "Scott Clayton",
   desc: "Helpful resources for modern day music production. Made by beatmakers for beatmakers",
   title: "Beatmaker Blog",

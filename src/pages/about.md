@@ -3,34 +3,26 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+# About Us
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Welcome to BeatBlog, where we're passionate about everything related to music production. Here's a little bit about who we are and what drives us:
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## Who We Are
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+### Scott Clayton
 
-## Tech Stack
+Founder and Chief Enthusiast
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+As a freelance audio engineer, Scott Clayton founded BeatBlog to share his love for music production and provide a platform for anyone to advance their skills as a beatmaker.
 
-## Features
+## What You'll Find Here
+- **In-Depth Tutorials:** Step-by-step guides to help you master music production.
+- **Product Reviews:** Honest reviews of the latest VST plugins.
+- **Inspiration and Insights:** Stories and experiences from my personal and professional expiriences to inspire your journey.
 
-Here are certain features of this site.
+## Get in Touch
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+We love connecting with our community. If you have questions, suggestions, or just want to say hello, don't hesitate to reach out(mailto:your@email.com).
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Thank you for being part of the BeatBlog community. Let's make beats.
+
